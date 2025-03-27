@@ -11,3 +11,7 @@ Charged laptop with a mouse
 1. Go to [this website](https://www.autodesk.com/products/fusion-360/personal) 
 2. Sign up for an account
 3. Open the downloaded file and continue through the prompts
+
+# Resources
+
+1. Converting images to svg: [https://www.freeconvert.com/svg-converter](https://www.freeconvert.com/svg-converter)
