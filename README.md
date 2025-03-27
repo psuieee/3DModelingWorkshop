@@ -14,4 +14,4 @@ Charged laptop with a mouse
 
 # Resources
 
-1. Converting images to svg: [https://www.freeconvert.com/svg-converter](https://www.freeconvert.com/svg-converter)
+1. Convert images to svg: [https://www.freeconvert.com/svg-converter](https://www.freeconvert.com/svg-converter)
