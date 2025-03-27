@@ -15,3 +15,4 @@ Charged laptop with a mouse
 # Resources
 
 1. Convert images to svg: [https://www.freeconvert.com/svg-converter](https://www.freeconvert.com/svg-converter)
+2. Keychain upload: [https://forms.gle/uBGSUmTg58nGyhP97](https://forms.gle/uBGSUmTg58nGyhP97)
