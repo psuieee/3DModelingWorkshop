@@ -1,0 +1,12 @@
+NOTES
+
+SNOW GLOBE VALUES
+390 ohm
+100 nF
+0.47 uF
+10M ohm
+
+T=1.1RC=1.1(10M)(0.47u)≈5.1 seconds
+
+2n2222 transistor:
+TO-92 body
